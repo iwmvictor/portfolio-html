@@ -1,0 +1,18 @@
+/* === Gebuk Font === */
+@font-face {
+  font-family: 'Gebuk';
+  src: url('../fonts/gebuk/Gebuk-Regular.woff2') format('woff2'),
+       url('../fonts/gebuk/Gebuk-Regular.woff') format('woff'),
+       url('../fonts/gebuk/Gebuk-Regular.ttf') format('truetype'),
+       url('../fonts/gebuk/Gebuk-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* === Satoshi Font (Variable) === */
+@font-face {
+  font-family: 'Satoshi';
+  src: url('../fonts/satoshi/Satoshi-Variable.ttf') format('truetype');
+  font-weight: 100 900; /* because it's a variable font */
+  font-style: normal;
+}

@@ -1,0 +1,72 @@
+{
+  "chw-etraining": {
+    "title": "CHW eTraining Platform UI Design",
+    "short_name": "CHW eTraining",
+    "bio": "High-impact UI design for a training platform.\nFocused on storytelling and accessibility.\nCrafted with mobile-first strategy.",
+    "preview_link": "https://www.figma.com/proto/EEtnhpc6dIZxDAodVRrsog/portfolio?node-id=29-3",
+    "price": "client",
+    "client": {
+      "name": "CHW Global",
+      "logo": "assets/images/clients/chw-logo.png",
+      "industry": "Health Training"
+    },
+    "last_updated": 1752796800,
+    "views": 422,
+    "media": [
+      {
+        "type": "thumbnail",
+        "title": "Project Thumbnail",
+        "src": "/assets/images/projects/project01.png"
+      },
+      {
+        "type": "video",
+        "title": "Video Preview",
+        "src": "/assets/images/projects/project02.png"
+      },
+      {
+        "type": "header",
+        "title": "Header Cover Image",
+        "src": "/assets/images/projects/project02.png"
+      },
+      {
+        "type": "gallery",
+        "title": "Module Page Preview",
+        "src": "/assets/images/projects/project03.png"
+      },
+      {
+        "type": "gallery",
+        "title": "Module Page Preview",
+        "src": "/assets/images/projects/project04.png"
+      },
+      {
+        "type": "gallery",
+        "title": "Module Page Preview",
+        "src": "/assets/images/projects/project05.png"
+      }
+    ],
+    "about": {
+      "html": "<p>The CHW eTraining platform is a healthcare UI design project crafted to streamline remote learning for community health workers. Its design emphasizes accessibility, responsive interaction, and visual storytelling.</p><ul><li>Optimized for low-bandwidth environments</li><li>Clean, scannable content structure</li><li>Figma handoff for dev integration</li></ul>"
+    },
+    "features": [
+      {
+        "title": "Modular UI System",
+        "description": "Designed with reusable components to streamline future scaling."
+      },
+      {
+        "title": "Accessible Design",
+        "description": "Compliant with WCAG guidelines, ARIA labels, and keyboard navigation."
+      },
+      {
+        "title": "Mobile-first Layout",
+        "description": "Prioritized performance and usability for mobile devices."
+      }
+    ],
+    "type": "ui design",
+    "tags": ["ui design", "figma", "responsive", "e-learning", "accessibility", "wcag", "healthtech", "training"],
+    "categories": ["Web App", "Health", "UI Design"],
+    "pages": ["Home", "Login", "Modules Overview", "Course Detail"],
+    "problem_statement": "CHW Global needed a training platform that could educate field health workers in underserved regions with limited internet access and device capabilities.",
+    "solution": "Designed a lightweight, accessible UI system that delivers high readability, modular structure, and seamless navigation across mobile devices.",
+    "output": "A developer-ready Figma prototype with all assets, ARIA annotations, and component documentation for smooth development handoff."
+  }
+}

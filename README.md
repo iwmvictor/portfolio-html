@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8019b5ff-e157-4b9f-ae61-3450b18776b5/deploy-status)](https://app.netlify.com/projects/iwmvictor/deploys)
+
 # iwmvictor – Personal Portfolio
 
 This is the source code for my personal creative portfolio website. Designed and built from scratch using HTML, CSS, and JavaScript, the site showcases my featured projects, design process, and contact channels.
@@ -48,7 +50,8 @@ portfolio/
 
 ## UI Screenshots
 
-``2 Pages``
+`2 Pages`
+
 ### Homepage
 
 ![Homepage UI](assets/images/ui/homepage.png)
@@ -57,7 +60,7 @@ portfolio/
 
 ![Project UI](assets/images/ui/project.png)
 
-``Modal Components``
+`Modal Components`
 
 ### Menu
 

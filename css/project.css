@@ -29,10 +29,14 @@ body {
     .menu {
       gap: 0.6rem;
       display: flex;
+      position: relative;
       padding: 1rem 1.3rem;
       align-items: center;
       border-radius: 6rem;
-      background: var(--dark-color);
+      background: rgb(16, 16, 16);
+      backdrop-filter: blur(16px);
+      -webkit-backdrop-filter: blur(16px);
+      border: 1px solid rgba(255, 255, 255, 0.08);
 
       .name {
         display: flex;
@@ -46,7 +50,7 @@ body {
         }
       }
 
-      button {
+      .button {
         display: flex;
         align-items: center;
         justify-content: center;
@@ -54,6 +58,7 @@ body {
         height: 2rem;
         padding: 0.2rem;
         overflow: hidden;
+        position: relative;
         border-radius: 1rem;
         background: var(--white-color);
 
@@ -62,8 +67,84 @@ body {
           height: auto;
         }
       }
+
+      #menu-toggle {
+        position: absolute;
+        top: 50%;
+        opacity: 0;
+        right: 1.2rem;
+        width: 2rem;
+        height: 2rem;
+        cursor: pointer;
+        overflow: hidden;
+        border-radius: 50%;
+        transform: translateY(-50%);
+      }
+      .close-btn {
+        position: absolute;
+        top: 1rem;
+        opacity: 0;
+        right: 1.3rem;
+        display: flex;
+        width: 2rem;
+        height: 2rem;
+        cursor: pointer;
+        font-size: 2rem;
+        font-weight: 600;
+        border-radius: 2rem;
+        align-items: center;
+        justify-content: center;
+        color: var(--black-color);
+        background: var(--white-color);
+      }
+      .dropdown-modal {
+        position: absolute;
+        top: 0.6rem;
+        left: 0;
+        width: 100%;
+        z-index: -1;
+        border-radius: 2rem;
+        background: rgba(16, 16, 16, 0.7);
+        padding: 4rem 2rem 2rem 2rem;
+        backdrop-filter: blur(36px);
+        -webkit-backdrop-filter: blur(16px);
+        box-shadow: 0 0px 0px rgba(31, 38, 135, 0.37);
+
+        ul {
+          gap: 0.6rem;
+          display: flex;
+          position: relative;
+          align-items: start;
+          flex-direction: column;
+
+          a {
+            display: flex;
+            font-size: 1rem;
+            font-weight: 500;
+            color: var(--white-color);
+            transition: var(--transition);
+
+            &:hover {
+              color: var(--accent-color);
+            }
+          }
+        }
+      }
     }
   }
+}
+
+.dropdown-modal {
+  display: none;
+}
+
+.header #menu-toggle:checked ~ .close-btn {
+  opacity: 1;
+}
+
+.header #menu-toggle:checked ~ .dropdown-modal {
+  display: flex;
+  opacity: 1;
 }
 
 section {
@@ -294,12 +375,12 @@ section {
               }
             }
 
-            &:hover{
-            .img{
-                button{
-                    display: flex;
+            &:hover {
+              .img {
+                button {
+                  display: flex;
                 }
-            }
+              }
             }
           }
         }

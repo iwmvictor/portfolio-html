@@ -1,0 +1,203 @@
+/* Light Theme Variables */
+:root[data-theme="light"] {
+  --black-color: #ffffff;
+  --dark-color: #f8f9fa;
+  --white-color: #000000;
+  --accent-color: #ff3f1e;
+  --gray-color: #1a1a1a;
+}
+
+/* Dark Theme Variables (default) */
+:root[data-theme="dark"] {
+  --black-color: #000000;
+  --dark-color: #101010;
+  --white-color: #ffffff;
+  --accent-color: #ff3f1e;
+  --gray-color: #fbfafc;
+}
+
+/* Theme Toggle Button */
+.theme-toggle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.2rem;
+  border: none;
+  border-radius: 1rem;
+  background: var(--white-color);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-right: 0.5rem;
+}
+
+.theme-toggle:hover {
+  background: var(--accent-color);
+  color: var(--white-color);
+}
+
+.theme-toggle .theme-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--black-color);
+}
+
+.theme-toggle:hover .theme-icon {
+  color: var(--white-color);
+}
+
+/* Show/hide icons based on theme */
+:root[data-theme="dark"] .sun-icon {
+  display: block;
+}
+
+:root[data-theme="dark"] .moon-icon {
+  display: none;
+}
+
+:root[data-theme="light"] .sun-icon {
+  display: none;
+}
+
+:root[data-theme="light"] .moon-icon {
+  display: block;
+}
+
+/* Light theme specific adjustments */
+:root[data-theme="light"] body {
+  background: var(--dark-color);
+  color: var(--white-color);
+}
+
+:root[data-theme="light"] .header .content .menu {
+  background: rgba(248, 249, 250, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+:root[data-theme="light"] .header .content .menu .dropdown-modal {
+  background: rgba(248, 249, 250, 0.95);
+}
+
+:root[data-theme="light"] .hero .img-container .variant {
+  background: var(--white-color);
+  color: var(--black-color);
+}
+
+:root[data-theme="light"] .about {
+  background: var(--black-color);
+  color: var(--white-color);
+}
+
+:root[data-theme="light"] .projects {
+  background: var(--white-color);
+  color: var(--black-color);
+}
+
+:root[data-theme="light"] .process-stats {
+  background: var(--dark-color);
+}
+
+:root[data-theme="light"] .services {
+  background: var(--white-color);
+  color: var(--black-color);
+}
+
+:root[data-theme="light"] .testimonials {
+  background: var(--dark-color);
+}
+
+:root[data-theme="light"] .contact {
+  background: var(--white-color);
+  color: var(--black-color);
+}
+
+:root[data-theme="light"] .faq {
+  background: var(--dark-color);
+}
+
+:root[data-theme="light"] .footer {
+  background: var(--white-color);
+  color: var(--black-color);
+}
+
+/* Pagination styles */
+.pagination-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+}
+
+.pagination {
+  display: flex;
+  gap: 12px;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(12px) saturate(180%);
+  -webkit-backdrop-filter: blur(12px) saturate(180%);
+  padding: 10px 20px;
+  border-radius: 20px;
+  width: fit-content;
+  align-items: center;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+:root[data-theme="light"] .pagination {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.1);
+}
+
+.pagination .dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background-color: #555;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+}
+
+
+
+:root[data-theme="light"] .pagination .dot {
+  background-color: #ccc;
+}
+
+.pagination .dot:hover {
+  background: #888;
+}
+
+:root[data-theme="light"] .pagination .dot:hover {
+  background: #666;
+}
+
+.pagination .dot.active {
+  background-color: var(--accent-color);
+}
+
+/* FAQ active state */
+.faq .card.active .qa .a {
+  display: flex !important;
+}
+
+.faq .card {
+  cursor: pointer;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+
+.faq .card:hover {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+:root[data-theme="light"] .faq .card:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+
+
+:root[data-theme="light"] .about .sec-title p{
+    color: black;
+}

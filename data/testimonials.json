@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Alia Bah",
+    "avatar": "https://cdn.dribbble.com/users/512167/avatars/small/914a70cc40ffafd5f89342fa21596c6d.png?1718396342",
+    "rating": 4,
+    "text": "Victor delivered beyond expectations— creative, fast, and truly professional. Communication was smooth and timely. Highly recommended!",
+    "service": "Branding Design"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "avatar": "https://cdn.dribbble.com/users/418188/avatars/small/427ef1baf4b90c9ccdd2a25fa272fe73.jpg?1635929741",
+    "rating": 5,
+    "text": "Outstanding work on our mobile app design. Victor understood our vision perfectly and delivered a beautiful, user-friendly interface.",
+    "service": "Mobile App Design"
+  },
+  {
+    "id": 3,
+    "name": "Michael Chen",
+    "avatar": "https://cdn.dribbble.com/users/1234567/avatars/small/michael-avatar.jpg",
+    "rating": 5,
+    "text": "Exceptional UI/UX design skills. The dashboard Victor created for us increased user engagement by 40%. Truly impressive work!",
+    "service": "UI/UX Design"
+  },
+  {
+    "id": 4,
+    "name": "Emma Rodriguez",
+    "avatar": "https://cdn.dribbble.com/users/7890123/avatars/small/emma-avatar.jpg",
+    "rating": 4,
+    "text": "Professional, creative, and reliable. Victor transformed our brand identity completely. The results exceeded our expectations.",
+    "service": "Brand Identity"
+  },
+  {
+    "id": 5,
+    "name": "David Thompson",
+    "avatar": "https://cdn.dribbble.com/users/4567890/avatars/small/david-avatar.jpg",
+    "rating": 5,
+    "text": "Working with Victor was a pleasure. His attention to detail and creative solutions made our website stand out from competitors.",
+    "service": "Web Development"
+  },
+  {
+    "id": 6,
+    "name": "Lisa Park",
+    "avatar": "https://cdn.dribbble.com/users/9876543/avatars/small/lisa-avatar.jpg",
+    "rating": 4,
+    "text": "Great collaboration on our e-commerce platform. Victor's design thinking and technical skills are top-notch. Highly recommend!",
+    "service": "E-commerce Design"
+  }
+]

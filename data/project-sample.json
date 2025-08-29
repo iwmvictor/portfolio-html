@@ -1,0 +1,170 @@
+[
+  {
+    "id": "chw-etraining",
+    "title": "CHW eTraining Platform UI Design",
+    "short_name": "CHW eTraining",
+    "bio": "High-impact UI design for a training platform. Focused on storytelling and accessibility. Crafted with mobile-first strategy.",
+    "preview_link": "https://www.figma.com/proto/EEtnhpc6dIZxDAodVRrsog/portfolio?node-id=29-3",
+    "client": {
+      "name": "CHW Global",
+      "logo": "https://cdn.dribbble.com/users/24705612/avatars/normal/open-uri20250813-2864665-vf430j?1755059926",
+      "industry": "Health Training"
+    },
+    "views": 422,
+    "likes": 22,
+    "media": {
+      "thumbnail": "https://cdn.dribbble.com/userupload/44526813/file/223f856135b2b5e3b61ae0a5c53f95c2.png?resize=1504x1128&vertical=center",
+      "hero": "/assets/images/projects/project01.png",
+      "gallery": [
+        "https://cdn.dribbble.com/userupload/44526813/file/223f856135b2b5e3b61ae0a5c53f95c2.png?resize=1504x1128&vertical=center",
+        "/assets/images/projects/project04.png",
+        "/assets/images/projects/project05.png"
+      ]
+    },
+    "about": "This project is a high-impact UI design for a healthcare training platform crafted to streamline remote learning for community health workers. The design emphasizes accessibility, responsive interaction, and visual storytelling optimized for low-bandwidth environments.",
+    "tags": ["UI Design", "Healthcare", "E-learning"],
+    "service": "UI Design",
+    "tools": ["Figma", "Photoshop"],
+    "timeline": "2 Weeks"
+  },
+  {
+    "id": "portfolio-website",
+    "title": "Personal Portfolio Website Design",
+    "short_name": "Portfolio Design",
+    "bio": "Minimal, modern portfolio website design focused on showcasing design work and personal branding. Built for clarity, impact, and responsive experience.",
+    "preview_link": "https://dribbble.com/iwmvictor",
+    "client": {
+      "name": "Iwmvictor",
+      "logo": "https://cdn.dribbble.com/users/24705612/avatars/normal/open-uri20250813-2864665-vf430j?1755059926",
+      "industry": "Product Design"
+    },
+    "views": 318,
+    "likes": 45,
+    "media": {
+      "thumbnail": "https://cdn.dribbble.com/userupload/44538654/file/ddc9b7cd015e6f88b799f93b8738309d.png",
+      "hero": "https://cdn.dribbble.com/userupload/44538659/file/2fee24604150df5fb5dd3bf7e6abf819.png",
+      "gallery": [
+        "https://cdn.dribbble.com/userupload/44538656/file/4d878b9f0c3b80eecf1db6bca1eeee63.png",
+        "https://cdn.dribbble.com/userupload/44538655/file/6d5b9ffc5e273de034aca8cbbb14aea0.png",
+        "https://cdn.dribbble.com/userupload/44538657/file/94ba3837d1da1932b815583fd545fd70.png",
+        "https://cdn.dribbble.com/userupload/44538658/file/50e1820331a9da3c9f19909a483ed626.png",
+        "https://cdn.dribbble.com/userupload/44538660/file/7eb872b6f05cbe829b26e859cdb4d37a.png",
+        "https://cdn.dribbble.com/userupload/44538659/file/2fee24604150df5fb5dd3bf7e6abf819.png"
+      ]
+    },
+    "about": "This is a clean and elegant personal portfolio website design crafted to highlight individual projects, case studies, and design capabilities. Fully responsive and optimized for user engagement and clarity.",
+    "tags": ["Portfolio", "Personal Website", "Product Design"],
+    "service": "UI/UX Design",
+    "tools": ["Figma", "Sketch"],
+    "timeline": "1 day"
+  },
+
+  {
+    "id": "mobile-banking-app",
+    "title": "Mobile Banking Application",
+    "short_name": "Banking App",
+    "bio": "Secure and intuitive mobile banking app design. Focus on user experience, security, and seamless financial transactions.",
+    "preview_link": "https://www.figma.com/proto/example2",
+    "client": {
+      "name": "FinanceBank",
+      "logo": "https://cdn.dribbble.com/users/418188/avatars/small/427ef1baf4b90c9ccdd2a25fa272fe73.jpg?1635929741",
+      "industry": "Banking"
+    },
+    "views": 567,
+    "likes": 78,
+    "media": {
+      "thumbnail": "https://cdn.dribbble.com/userupload/9717429/file/original-b9ceee9d3eef91bb4df39971fac7cdf0.png",
+      "hero": "https://cdn.dribbble.com/userupload/9717430/file/original-ef4641a7324d9e88846d14724a732b08.png",
+      "gallery": [
+        "https://cdn.dribbble.com/userupload/9717431/file/original-18288fe765f4d58df9a1a3562f9c9d23.png",
+        "https://cdn.dribbble.com/userupload/9717430/file/original-ef4641a7324d9e88846d14724a732b08.png",
+        "https://cdn.dribbble.com/userupload/9717432/file/original-eabd11919f2632978528447417876373.png"
+      ]
+    },
+    "about": "A modern mobile banking application designed with security and user experience at its core. Features include account management, transfers, bill payments, and financial insights with biometric authentication.",
+    "tags": ["Mobile App", "Banking", "Security"],
+    "service": "Mobile App Design",
+    "tools": ["Figma", "Principle"],
+    "timeline": "4 Weeks"
+  },
+  {
+    "id": "event-planner-website-design",
+    "title": "Event Planner Website Dsign",
+    "short_name": "Event Planner",
+    "bio": "Our Eventplan Webflow template is beautifully designed, making it perfect for event planning and coordination websites. With this template, you can effortlessly showcase your services, team, testimonials, and more.",
+    "preview_link": "https://www.figma.com/proto/example3",
+    "client": {
+      "name": "Webestica",
+      "logo": "https://cdn.dribbble.com/users/2327936/avatars/normal/22aecfdc0c31b93f8bea03c3775d6676.png?1639725988",
+      "industry": "Events"
+    },
+    "views": 2334,
+    "likes": 314,
+    "media": {
+      "thumbnail": "https://cdn.dribbble.com/userupload/43555767/file/original-a5f547e4adc03e1f0f263c8586ebe4b0.jpg",
+      "hero": "https://cdn.dribbble.com/userupload/43555767/file/original-a5f547e4adc03e1f0f263c8586ebe4b0.jpg",
+      "gallery": [
+        "https://cdn.dribbble.com/userupload/43555767/file/original-a5f547e4adc03e1f0f263c8586ebe4b0.jpg",
+        "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGNoZmthdzcwanVtcnB0a2tqaXAxbHg1azV2OGdqMDZhdDR1M2ZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tA4R6biK5nlBVXeR7w/200w.gif",
+        "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGNoZmthdzcwanVtcnB0a2tqaXAxbHg1azV2OGdqMDZhdDR1M2ZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tA4R6biK5nlBVXeR7w/200w.gif"
+      ]
+    },
+    "about": "Our Eventplan Webflow template is beautifully designed, making it perfect for event planning and coordination websites. With this template, you can effortlessly showcase your services, team, testimonials, and more.",
+    "tags": ["Website", "event", "party"],
+    "service": "Web Design",
+    "tools": ["Figma", "Adobe XD"],
+    "timeline": "3 days"
+  },
+  {
+    "id": "fitness-app",
+    "title": "Fitness Tracking Mobile App",
+    "short_name": "Fitness Tracker",
+    "bio": "Comprehensive fitness app with workout tracking, nutrition planning, and progress analytics for health enthusiasts.",
+    "preview_link": "https://www.figma.com/proto/example4",
+    "client": {
+      "name": "FitLife",
+      "logo": "https://cdn.dribbble.com/users/fitness/avatars/small/fitness-logo.jpg",
+      "industry": "Health & Fitness"
+    },
+    "views": 445,
+    "likes": 67,
+    "media": {
+      "thumbnail": "https://cdn.dribbble.com/userupload/fitness-app/file/original-fitness-app.png?resize=1504x1128",
+      "hero": "https://cdn.dribbble.com/userupload/fitness-app/file/original-fitness-app.png?resize=1504x1128",
+      "gallery": [
+        "https://cdn.dribbble.com/userupload/fitness-app/file/original-fitness-app.png?resize=800x600"
+      ]
+    },
+    "about": "A comprehensive fitness tracking application that helps users monitor workouts, plan nutrition, and track progress. Features include exercise libraries, meal planning, and social challenges.",
+    "tags": ["Mobile App", "Fitness", "Health"],
+    "service": "Mobile App Design",
+    "tools": ["Figma", "Framer"],
+    "timeline": "5 Weeks"
+  },
+  {
+    "id": "saas-platform",
+    "title": "SaaS Project Management Platform",
+    "short_name": "Project Manager",
+    "bio": "Modern SaaS platform for project management with team collaboration, task tracking, and analytics dashboard.",
+    "preview_link": "https://www.figma.com/proto/example5",
+    "client": {
+      "name": "ProductivePro",
+      "logo": "https://cdn.dribbble.com/users/saas/avatars/small/saas-logo.jpg",
+      "industry": "Software"
+    },
+    "views": 389,
+    "likes": 52,
+    "media": {
+      "thumbnail": "https://cdn.dribbble.com/userupload/saas-platform/file/original-saas-platform.png?resize=1504x1128",
+      "hero": "https://cdn.dribbble.com/userupload/saas-platform/file/original-saas-platform.png?resize=1504x1128",
+      "gallery": [
+        "https://cdn.dribbble.com/userupload/saas-platform/file/original-saas-platform.png?resize=800x600"
+      ]
+    },
+    "about": "A modern SaaS project management platform designed for teams to collaborate effectively. Features include task management, time tracking, team chat, and comprehensive analytics.",
+    "tags": ["SaaS", "Project Management", "Collaboration"],
+    "service": "Web App Design",
+    "tools": ["Figma", "Miro"],
+    "timeline": "6 Weeks"
+  }
+]

@@ -209,6 +209,10 @@ section.featured .content .main .cards-list {
   display: grid;
   align-items: start;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+
+  @media screen and (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
 }
 
 section.featured .content .main .cards-list .project-card {

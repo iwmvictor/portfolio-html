@@ -27,6 +27,7 @@
     "tools": ["Figma", "Photoshop"],
     "timeline": "2 Weeks"
   },
+
   {
     "id": "portfolio-website",
     "title": "Personal Portfolio Website Design",
@@ -60,111 +61,60 @@
   },
 
   {
-    "id": "mobile-banking-app",
-    "title": "Mobile Banking Application",
-    "short_name": "Banking App",
-    "bio": "Secure and intuitive mobile banking app design. Focus on user experience, security, and seamless financial transactions.",
-    "preview_link": "https://www.figma.com/proto/example2",
+    "id": "planner-app",
+    "title": "Planner and Task App",
+    "short_name": "Task Manager",
+    "bio": "Minimal, modern task management app design focused on enhancing productivity and collaboration. Built for clarity, impact, and responsive experience.",
+    "preview_link": "https://iwm-planner.netlify.app/",
     "client": {
-      "name": "FinanceBank",
-      "logo": "https://cdn.dribbble.com/users/418188/avatars/small/427ef1baf4b90c9ccdd2a25fa272fe73.jpg?1635929741",
-      "industry": "Banking"
+      "name": "Iwmvictor",
+      "logo": "https://cdn.dribbble.com/users/24705612/avatars/normal/open-uri20250813-2864665-vf430j?1755059926",
+      "industry": "Product Design"
     },
-    "views": 567,
-    "likes": 78,
+    "views": 18,
+    "likes": 5,
     "media": {
-      "thumbnail": "https://cdn.dribbble.com/userupload/9717429/file/original-b9ceee9d3eef91bb4df39971fac7cdf0.png",
-      "hero": "https://cdn.dribbble.com/userupload/9717430/file/original-ef4641a7324d9e88846d14724a732b08.png",
+      "thumbnail": "https://github.com/iwmvictor/planner/raw/main/assets/screenshots/screen1.png",
+      "hero": "https://github.com/iwmvictor/planner/raw/main/assets/screenshots/dark.png",
       "gallery": [
-        "https://cdn.dribbble.com/userupload/9717431/file/original-18288fe765f4d58df9a1a3562f9c9d23.png",
-        "https://cdn.dribbble.com/userupload/9717430/file/original-ef4641a7324d9e88846d14724a732b08.png",
-        "https://cdn.dribbble.com/userupload/9717432/file/original-eabd11919f2632978528447417876373.png"
+        "https://github.com/iwmvictor/planner/raw/main/assets/screenshots/screen1.png",
+        "https://github.com/iwmvictor/planner/raw/main/assets/screenshots/dark.png",
+        "https://github.com/iwmvictor/planner/raw/main/assets/screenshots/new.png",
+        "https://github.com/iwmvictor/planner/raw/main/assets/screenshots/delete.png"
       ]
     },
-    "about": "A modern mobile banking application designed with security and user experience at its core. Features include account management, transfers, bill payments, and financial insights with biometric authentication.",
-    "tags": ["Mobile App", "Banking", "Security"],
-    "service": "Mobile App Design",
-    "tools": ["Figma", "Principle"],
-    "timeline": "4 Weeks"
+    "about": "This is a clean and elegant personal portfolio website design crafted to highlight individual projects, case studies, and design capabilities. Fully responsive and optimized for user engagement and clarity.",
+    "tags": ["Portfolio", "Personal Website", "Product Design"],
+    "service": "UI/UX Design",
+    "tools": ["Figma", "HTML"],
+    "timeline": "1 day"
   },
+
   {
-    "id": "event-planner-website-design",
-    "title": "Event Planner Website Dsign",
-    "short_name": "Event Planner",
-    "bio": "Our Eventplan Webflow template is beautifully designed, making it perfect for event planning and coordination websites. With this template, you can effortlessly showcase your services, team, testimonials, and more.",
-    "preview_link": "https://www.figma.com/proto/example3",
+    "id": "image-editor-app",
+    "title": "Image Editor App",
+    "short_name": "Image Editor",
+    "bio": "A powerful image editing application designed for professionals and enthusiasts alike. Focused on providing a seamless and intuitive user experience.",
+    "preview_link": "https://editinga.netlify.app/",
     "client": {
-      "name": "Webestica",
-      "logo": "https://cdn.dribbble.com/users/2327936/avatars/normal/22aecfdc0c31b93f8bea03c3775d6676.png?1639725988",
-      "industry": "Events"
+      "name": "Iwmvictor",
+      "logo": "https://cdn.dribbble.com/users/24705612/avatars/normal/open-uri20250813-2864665-vf430j?1755059926",
+      "industry": "Product Design"
     },
-    "views": 2334,
-    "likes": 314,
+    "views": 18,
+    "likes": 5,
     "media": {
-      "thumbnail": "https://cdn.dribbble.com/userupload/43555767/file/original-a5f547e4adc03e1f0f263c8586ebe4b0.jpg",
-      "hero": "https://cdn.dribbble.com/userupload/43555767/file/original-a5f547e4adc03e1f0f263c8586ebe4b0.jpg",
+      "thumbnail": "https://github.com/iwmvictor/imgEditor/raw/main/preview.png",
+      "hero": "https://github.com/iwmvictor/imgEditor/raw/main/preview.png",
       "gallery": [
-        "https://cdn.dribbble.com/userupload/43555767/file/original-a5f547e4adc03e1f0f263c8586ebe4b0.jpg",
-        "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGNoZmthdzcwanVtcnB0a2tqaXAxbHg1azV2OGdqMDZhdDR1M2ZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tA4R6biK5nlBVXeR7w/200w.gif",
-        "https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeGNoZmthdzcwanVtcnB0a2tqaXAxbHg1azV2OGdqMDZhdDR1M2ZyeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tA4R6biK5nlBVXeR7w/200w.gif"
+        "https://github.com/iwmvictor/imgEditor/raw/main/preview.png",
+        "https://github.com/iwmvictor/imgEditor/raw/main/preview.png"
       ]
     },
-    "about": "Our Eventplan Webflow template is beautifully designed, making it perfect for event planning and coordination websites. With this template, you can effortlessly showcase your services, team, testimonials, and more.",
-    "tags": ["Website", "event", "party"],
-    "service": "Web Design",
-    "tools": ["Figma", "Adobe XD"],
-    "timeline": "3 days"
-  },
-  {
-    "id": "fitness-app",
-    "title": "Fitness Tracking Mobile App",
-    "short_name": "Fitness Tracker",
-    "bio": "Comprehensive fitness app with workout tracking, nutrition planning, and progress analytics for health enthusiasts.",
-    "preview_link": "https://www.figma.com/proto/example4",
-    "client": {
-      "name": "FitLife",
-      "logo": "https://cdn.dribbble.com/users/fitness/avatars/small/fitness-logo.jpg",
-      "industry": "Health & Fitness"
-    },
-    "views": 445,
-    "likes": 67,
-    "media": {
-      "thumbnail": "https://cdn.dribbble.com/userupload/fitness-app/file/original-fitness-app.png?resize=1504x1128",
-      "hero": "https://cdn.dribbble.com/userupload/fitness-app/file/original-fitness-app.png?resize=1504x1128",
-      "gallery": [
-        "https://cdn.dribbble.com/userupload/fitness-app/file/original-fitness-app.png?resize=800x600"
-      ]
-    },
-    "about": "A comprehensive fitness tracking application that helps users monitor workouts, plan nutrition, and track progress. Features include exercise libraries, meal planning, and social challenges.",
-    "tags": ["Mobile App", "Fitness", "Health"],
-    "service": "Mobile App Design",
-    "tools": ["Figma", "Framer"],
-    "timeline": "5 Weeks"
-  },
-  {
-    "id": "saas-platform",
-    "title": "SaaS Project Management Platform",
-    "short_name": "Project Manager",
-    "bio": "Modern SaaS platform for project management with team collaboration, task tracking, and analytics dashboard.",
-    "preview_link": "https://www.figma.com/proto/example5",
-    "client": {
-      "name": "ProductivePro",
-      "logo": "https://cdn.dribbble.com/users/saas/avatars/small/saas-logo.jpg",
-      "industry": "Software"
-    },
-    "views": 389,
-    "likes": 52,
-    "media": {
-      "thumbnail": "https://cdn.dribbble.com/userupload/saas-platform/file/original-saas-platform.png?resize=1504x1128",
-      "hero": "https://cdn.dribbble.com/userupload/saas-platform/file/original-saas-platform.png?resize=1504x1128",
-      "gallery": [
-        "https://cdn.dribbble.com/userupload/saas-platform/file/original-saas-platform.png?resize=800x600"
-      ]
-    },
-    "about": "A modern SaaS project management platform designed for teams to collaborate effectively. Features include task management, time tracking, team chat, and comprehensive analytics.",
-    "tags": ["SaaS", "Project Management", "Collaboration"],
-    "service": "Web App Design",
-    "tools": ["Figma", "Miro"],
-    "timeline": "6 Weeks"
+    "about": "This is a clean and elegant personal portfolio website design crafted to highlight individual projects, case studies, and design capabilities. Fully responsive and optimized for user engagement and clarity.",
+    "tags": ["Portfolio", "Personal Website", "Product Design"],
+    "service": "UI/UX Design",
+    "tools": ["Figma", "HTML"],
+    "timeline": "1 day"
   }
 ]

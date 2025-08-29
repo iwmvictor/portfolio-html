@@ -159,8 +159,6 @@
   cursor: pointer;
 }
 
-
-
 :root[data-theme="light"] .pagination .dot {
   background-color: #ccc;
 }
@@ -196,8 +194,6 @@
   background: rgba(0, 0, 0, 0.05);
 }
 
-
-
-:root[data-theme="light"] .about .sec-title p{
-    color: black;
+:root[data-theme="light"] .about .sec-title p {
+  color: black;
 }

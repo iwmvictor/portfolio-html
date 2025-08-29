@@ -598,6 +598,10 @@ main section.projects {
   background: var(--black-color);
 }
 
+main section.projects#blogs{
+  border-top: 2px solid var(--accent-color);
+}
+
 main section.projects .content {
   width: 100%;
   position: relative;
@@ -715,6 +719,10 @@ main section.projects .content .projects-list .project-cards {
   display: grid;
   align-items: start;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+
+  @media screen and (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
 }
 
 main section.projects .content .projects-list .project-cards .project-card {
@@ -729,6 +737,10 @@ main section.projects .content .projects-list .project-cards .project-card .img 
   overflow: hidden;
   position: relative;
   border-radius: 2rem;
+  
+  @media screen and (max-width: 600px) {
+    height: 270px;
+  }
 }
 
 main section.projects .content .projects-list .project-cards .project-card .img img {
@@ -956,6 +968,7 @@ main section.process-stats .process .content .main .cards-list {
   display: grid;
   align-items: stretch;
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+
 }
 
 @media (max-width: 320px) {

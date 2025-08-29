@@ -1,34 +1,5 @@
 [
   {
-    "id": "chw-etraining",
-    "title": "CHW eTraining Platform UI Design",
-    "short_name": "CHW eTraining",
-    "bio": "High-impact UI design for a training platform. Focused on storytelling and accessibility. Crafted with mobile-first strategy.",
-    "preview_link": "https://www.figma.com/proto/EEtnhpc6dIZxDAodVRrsog/portfolio?node-id=29-3",
-    "client": {
-      "name": "CHW Global",
-      "logo": "https://cdn.dribbble.com/users/24705612/avatars/normal/open-uri20250813-2864665-vf430j?1755059926",
-      "industry": "Health Training"
-    },
-    "views": 422,
-    "likes": 22,
-    "media": {
-      "thumbnail": "https://cdn.dribbble.com/userupload/44526813/file/223f856135b2b5e3b61ae0a5c53f95c2.png?resize=1504x1128&vertical=center",
-      "hero": "/assets/images/projects/project01.png",
-      "gallery": [
-        "https://cdn.dribbble.com/userupload/44526813/file/223f856135b2b5e3b61ae0a5c53f95c2.png?resize=1504x1128&vertical=center",
-        "/assets/images/projects/project04.png",
-        "/assets/images/projects/project05.png"
-      ]
-    },
-    "about": "This project is a high-impact UI design for a healthcare training platform crafted to streamline remote learning for community health workers. The design emphasizes accessibility, responsive interaction, and visual storytelling optimized for low-bandwidth environments.",
-    "tags": ["UI Design", "Healthcare", "E-learning"],
-    "service": "UI Design",
-    "tools": ["Figma", "Photoshop"],
-    "timeline": "2 Weeks"
-  },
-
-  {
     "id": "portfolio-website",
     "title": "Personal Portfolio Website Design",
     "short_name": "Portfolio Design",

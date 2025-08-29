@@ -46,7 +46,7 @@ class ProjectsManager {
   constructor() {
     this.projects = [];
     this.currentPage = 0;
-    this.projectsPerPage = 4;
+    this.projectsPerPage = 3;
     this.currentFilter = "All";
     this.init();
   }
